@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Parmar</h1>
-<h3 align="center">Software Engineer @ Quadrant Technologies | Cloud, Data Engineering & Generative AI</h3>
+<h3 align="center">Software Engineer| Cloud, Data Engineering & Generative AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+cloud-native+apps+with+FastAPI+%2B+React;PySpark+ETL+on+Databricks+%26+Microsoft+Fabric;LLM+%2F+RAG+Multi-Agent+Systems;AWS+%7C+Azure+%7C+Microsoft+Fabric" alt="Typing SVG" />
